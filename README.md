@@ -1,0 +1,1 @@
+# Woocommerce-Disable-Email-Change
