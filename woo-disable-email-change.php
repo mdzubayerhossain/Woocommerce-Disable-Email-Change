@@ -4,7 +4,7 @@ Plugin Name: Woo Disable Email Change
 Plugin URI: https://lwhh.org
 Description: Prevent users from changing their email address from WooCommerce dashboard
 Version: 1.0.0
-Author: Hasin Hayder
+Author: Zubayer Hossain Patowari
 Author URI: 
 License: GPLv2 or later
 Text Domain: woo-disable-email-change
